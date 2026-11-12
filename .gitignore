@@ -1,0 +1,13 @@
+# Rahasia / konfigurasi lokal
+.env
+
+# Build & tool
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+*.iml
+.DS_Store
+local.properties
